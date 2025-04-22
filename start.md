@@ -57,3 +57,12 @@ After line
   * Row
 - Flow
 + Show
+
+| Col 1   |   Col 2    |   Col 3 | Col 4 |
+|---------|:----------:|--------:|:------|
+| This is | an example |    of a | Five  |
+| table   |  with two  | columns | Six   |
+
+- [ ] Here
+- [x] There
+
